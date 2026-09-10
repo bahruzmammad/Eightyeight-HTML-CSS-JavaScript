@@ -4,7 +4,7 @@ A responsive automotive website built with HTML, CSS and JavaScript.
 
 ## Preview
 
-![Eightyeight Preview](./demo/demo-1.png)
+![Eightyeight Preview](./assets/imgs/demo/demo-1.png)
 
 ## Demos
 
@@ -15,24 +15,29 @@ demo/
 ├── demo-1.png
 ├── demo-2.png
 ├── demo-3.png
-└── demo-4.png
+├── demo-4.png
+└── demo-5.png
 ```
 
 ### Demo 1
 
-![Demo 1](./demo/demo-1.png)
+![Demo 1](./assets/imgs/demo/demo-1.png)
 
 ### Demo 2
 
-![Demo 2](./demo/demo-2.png)
+![Demo 2](./assets/imgs/demo/demo-2.png)
 
 ### Demo 3
 
-![Demo 3](./demo/demo-3.png)
+![Demo 3](./assets/imgs/demo/demo-3.png)
 
 ### Demo 4
 
-![Demo 4](./demo/demo-4.png)
+![Demo 4](./assets/imgs/demo/demo-4.png)
+
+### Demo 5
+
+![Demo 5](./assets/imgs/demo/demo-5.png)
 
 ## Technologies
 
