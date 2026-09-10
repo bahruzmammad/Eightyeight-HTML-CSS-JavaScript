@@ -8,15 +8,17 @@ A responsive automotive website built with HTML, CSS and JavaScript.
 
 ## Demos
 
-The `demo` folder contains four project previews:
+The `demo` folder contains five project previews:
 
 ```text
-demo/
-├── demo-1.png
-├── demo-2.png
-├── demo-3.png
-├── demo-4.png
-└── demo-5.png
+assets/
+└── imgs/
+    └── demo/
+        ├── demo-1.png
+        ├── demo-2.png
+        ├── demo-3.png
+        ├── demo-4.png
+        └── demo-5.png
 ```
 
 ### Demo 1
@@ -88,14 +90,15 @@ Eightyeight/
 │   │   ├── service-1.png
 │   │   ├── service-2.png
 │   │   ├── service-3.png
-│   │   └── service-4.png
+│   │   ├── service-4.png
+│   │   └── demo/
+│   │       ├── demo-1.png
+│   │       ├── demo-2.png
+│   │       ├── demo-3.png
+│   │       ├── demo-4.png
+│   │       └── demo-5.png
 │   └── js/
 │       └── script.js
-├── demo/
-│   ├── demo-1.png
-│   ├── demo-2.png
-│   ├── demo-3.png
-│   └── demo-4.png
 └── index.html
 ```
 
@@ -110,7 +113,7 @@ Design and development reference:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/eightyeight.git
+git clone https://github.com/bahruzmammad/eightyeight.git
 ```
 
 Open the project directory:
