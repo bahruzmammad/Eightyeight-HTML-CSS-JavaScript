@@ -1,76 +1,30 @@
-# Eightyeight
+# Eightyeight-HTML-CSS-JavaScript
 
-A responsive automotive website built with HTML, CSS and JavaScript.
+HTML/CSS/JavaScript Website built with HTML, CSS, JavaScript.
 
-## Preview
+## Overview
 
-![Eightyeight Preview](./assets/imgs/demo/demo-1.png)
-
-## Demos
-
-The `demo` folder contains five project previews:
-
-```text
-assets/
-└── imgs/
-    └── demo/
-        ├── demo-1.png
-        ├── demo-2.png
-        ├── demo-3.png
-        ├── demo-4.png
-        └── demo-5.png
-```
-
-### Demo 1
-
-![Demo 1](./assets/imgs/demo/demo-1.png)
-
-### Demo 2
-
-![Demo 2](./assets/imgs/demo/demo-2.png)
-
-### Demo 3
-
-![Demo 3](./assets/imgs/demo/demo-3.png)
-
-### Demo 4
-
-![Demo 4](./assets/imgs/demo/demo-4.png)
-
-### Demo 5
-
-![Demo 5](./assets/imgs/demo/demo-5.png)
+This repository contains a html/css/javascript website with 28 tracked and analyzed project files across 5 directories.
 
 ## Technologies
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- Swiper.js
-- ScrollReveal.js
-- Remix Icon
-- Google Fonts
 
-## Features
+## Entry Points
 
-- Responsive navigation
-- Mobile menu
-- Automotive hero section
-- Image gallery slider
-- Service section
-- Instagram image slider
-- Responsive footer
-- Scroll reveal animations
-- Mobile and desktop layouts
+- `index.html`
 
 ## Project Structure
 
 ```text
-Eightyeight/
+Eightyeight-HTML-CSS-JavaScript/
 ├── assets/
 │   ├── css/
 │   │   └── styles.css
 │   ├── imgs/
+│   │   ├── demo/
 │   │   ├── banner.png
 │   │   ├── gallery-1.png
 │   │   ├── gallery-2.png
@@ -90,36 +44,32 @@ Eightyeight/
 │   │   ├── service-1.png
 │   │   ├── service-2.png
 │   │   ├── service-3.png
-│   │   ├── service-4.png
-│   │   └── demo/
-│   │       ├── demo-1.png
-│   │       ├── demo-2.png
-│   │       ├── demo-3.png
-│   │       ├── demo-4.png
-│   │       └── demo-5.png
+│   │   └── service-4.png
 │   └── js/
 │       └── script.js
 └── index.html
 ```
 
-## Reference
+Important directories:
 
-Design and development reference:
+- `assets`
+- `assets/css`
+- `assets/js`
 
-[Web Design Mastery](https://www.youtube.com/@webdesignmastery)
+## Repository Statistics
 
-## Getting Started
+- Files: 28
+- Directories: 5
+- Source files: 3
+- Asset files: 25
+- Lines of code/text: 911
 
-Clone the repository:
+## Git
 
-```bash
-git clone https://github.com/bahruzmammad/eightyeight.git
-```
+- Branch: `main`
+- Commits: 3
+- Latest commit: `c8ed055baa99`
 
-Open the project directory:
+## Notes
 
-```bash
-cd eightyeight
-```
-
-Then open `index.html` in your browser.
+This documentation reflects the current repository structure and detected project configuration.
